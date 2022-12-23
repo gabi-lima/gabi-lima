@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Financas Ai](https://github.com/gabi-lima/Financas-Ai)
 
-- 🌱 I’m currently learning **Node.js, Express.js, ejs, and backend in general**
+- 🌱 I’m currently learning **Node.js, Express.js, ejs, and backend in general!**
 
 - 👨‍💻 All of my projects are available at [github.com/gabi-lima](github.com/gabi-lima)
-
-- 💬 Ask me about **javascript!**
 
 - 📫 How to reach me **gabriel1277lima@gmail.com**
 
