@@ -19,5 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabi-lima&show_icons=true&locale=en&layout=compact&theme=radical" alt="gabi-lima" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabi-lima&show_icons=true&locale=en" alt="gabi-lima" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabi-lima&show_icons=true&locale=en&theme=radical" alt="gabi-lima" /></p>
 
