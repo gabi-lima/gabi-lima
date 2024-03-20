@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **React!**
+
 
 - 👨‍💻 All of my projects are available at [github.com/gabi-lima](github.com/gabi-lima)
 
